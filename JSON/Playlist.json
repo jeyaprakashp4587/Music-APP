@@ -1,0 +1,63 @@
+{
+  "Foryou": [
+    {
+      "name": "Latest Hits",
+      "img": "https://i.ibb.co/QfSKfZr/20230923-151052.jpg",
+      "latest": true
+    },
+    {
+      "name": "Pradeep Kumar",
+      "artist": "pradeep",
+      "img": "https://i.ibb.co/B4fy0dq/pradeep.jpg",
+      "role": "Artist"
+    },
+    {
+      "name": "Yuvan Sankar",
+      "artist": "yuvan",
+      "img": "https://i.ibb.co/wWYLrBv/wp6441405-yuvan-shankar-raja-wallpapers.jpg",
+      "role": "Artist"
+    },
+    {
+      "name": "AR Rahman",
+      "artist": "ar",
+      "img": "https://i.ibb.co/CvsQJcr/ar.jpg",
+      "role": "Artist"
+    },
+    {
+      "name": "Santhosh Narayanan",
+      "artist": "santhosh",
+      "img": "https://i.ibb.co/KNnBb1K/santhosh.jpg",
+      "role": "Artist"
+    },
+    {
+      "name": "Aniruth",
+      "artist": "aniruth",
+      "img": "https://i.ibb.co/Lrr8yVv/aniruth.jpg",
+      "role": "Artist"
+    },
+
+    {
+      "name": "GV Prakash",
+      "artist": "gv",
+      "img": "https://i.ibb.co/BjH6vqw/gv.jpg",
+      "role": "Artist"
+    }
+  ],
+  "modeplaylist": [
+    {
+      "name": "Sleeping Drugs Tamil",
+      "img": "https://i.ibb.co/cw7jB3m/64df49b98b277.png",
+      "role": "Playlist"
+    },
+    {
+      "name": "Latest Hits Tamil",
+      "img": "https://i.ibb.co/kD1L1mc/p1.png",
+      "role": "Playlist"
+    },
+    {
+      "name": "Bus Travel Hits",
+      "img": "https://i.ibb.co/rpWStKZ/64e5950c1b496.png",
+      "role": "Playlist"
+    }
+  ]
+}

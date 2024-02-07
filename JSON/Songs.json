@@ -1,0 +1,62 @@
+{
+  "songs": [
+    {
+      "name": "Badass",
+      "from": "leo",
+      "artist": "aniruth",
+      "arname": "Aniruth",
+      "song": "https://audio.jukehost.co.uk/BN5XvsZdd2q2qQ1AdCCCAVCoY5WxYUfN",
+      "img": "https://i.ibb.co/QfSKfZr/20230923-151052.jpg",
+      "latest": true
+    },
+    {
+      "name": "Kanodu Kanbathelam",
+      "from": "Jeans",
+      "artist": "ar",
+      "arname": "AR Rahman",
+      "song": "https://audio.jukehost.co.uk/tnOQvjbHPcWTOwXmoLlVJ9VvAj9A7iuy",
+      "img": "https://i.ibb.co/CvsQJcr/ar.jpg"
+    },
+    {
+      "name": "pookal pookum Tharunam",
+      "from": "Madharasapattinam",
+      "artist": "gv",
+      "arname": "Gv Prakash",
+      "img": "https://i.ibb.co/Fz90Hjv/matahrsu.jpg",
+      "song": "https://audio.jukehost.co.uk/mKWu1Ulfles2dN3MtoUs7kj8W1Yy4rPG"
+    },
+    {
+      "name": "Ava Enna Enna ",
+      "from": "Varanam Aayiram",
+      "artist": "Harish",
+      "arname": "Harish Jeyaraj",
+      "img": "https://i.ibb.co/0J12mJk/varanam.jpg",
+      "song": "https://audio.jukehost.co.uk/L7BYQ2WLENjeRnjpDrN5Kpto4GG2jU6E",
+      "latest": true
+    },
+    {
+      "name": "Vera Soora",
+      "from": "Naane Varuven",
+      "artist": "yuvan",
+      "arname": "Yuvan Sankar Raja",
+      "img": "https://i.ibb.co/1vf7rq8/nane-varuven.jpg",
+      "song": "https://audio.jukehost.co.uk/zanJZsr85xZIXLw6GjQjRQpMLumr31X1"
+    },
+    {
+      "name": "Kanda Vara Solunga",
+      "from": "Karnan",
+      "artist": "santhosh",
+      "arname": "Santhosh Narayanan",
+      "img": "https://i.ibb.co/MBt64xm/karnan.jpg",
+      "song": "https://audio.jukehost.co.uk/eTcDnhmPsSGBi4XZCpgx6YCfsw0T1B5b"
+    },
+    {
+      "name": "Nee Kavithaigala",
+      "from": "Maragatha Nanayam",
+      "artist": "pradeep",
+      "arname": "pradeep kumar",
+      "img": "https://i.ibb.co/mGqNjG3/maragatah.jpg",
+      "song": "https://audio.jukehost.co.uk/eYr1oiHpTR4O3CBaW5p3SaN0TtiIFs7T"
+    }
+  ]
+}
